@@ -1,6 +1,5 @@
 import React from 'react';
 import './Button.css';
-import PropTypes from 'prop-types';
 
 const Button = ({label, primary, size, backgroundColor, ...props }) => {
   const mode = primary ? 'button--primary' : 'button--secondary';
