@@ -1,10 +1,13 @@
 :root {
     --primary-color: var(--dark-blue);
     --secondary-color: var(--light-blue);
-    --light-lila: #9879e9;
-    --dark-lila: #7345e7;
     --dark-blue: #1f497d;
     --light-gray: #f2f2f2;
     --light-blue: #3498db;
     --white: #ffffff;
+    --black: #000;
+
+    --light-lila: #9879e9;
+    --dark-lila: #7345e7;
+    --east-bay: #455970;
 }
